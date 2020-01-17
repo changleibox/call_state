@@ -1,6 +1,6 @@
 name: call_state
 description: 监听通话时间
-version: 0.0.1
+version: 0.0.1+1
 author: Box <changleibox@sina.com>
 homepage: https://github.com/changleibox/call_state.git
 
